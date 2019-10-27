@@ -101,7 +101,7 @@ def getInfo(url):
 
 if __name__ == '__main__':
     url = input('Input URL You Want To Check:\n')
-    print('[i] Checking target is bulnerable ==> %s' % url)
+    print('[i] Checking target is vulnerable ==> %s' % url)
     if checkVulUrl(url):
         getInfo(url)
     else:
