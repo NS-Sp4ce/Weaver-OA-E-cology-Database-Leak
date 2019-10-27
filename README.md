@@ -20,7 +20,7 @@ _____       _____ _____ _     _____ _______   __  _____  ___    _____ _____ _   
 
 Input URL You Want To Check:
 http://**.**.**.**/
-[i] Checking target is bulnerable ==> http://**.**.**.**/
+[i] Checking target is vulnerable ==> http://**.**.**.**/
 [+] Target Is Vulnerable.
 [+]DBType:*******
    DBUrl:**.**.**.**
