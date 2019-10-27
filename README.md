@@ -1,4 +1,4 @@
-# Weaver-E-cology-Database-Leak
+# WeaverOA-E-cology-Database-Leak
 泛微OA e-cology数据库配置泄漏检测脚本
 
 # 使用方法：
